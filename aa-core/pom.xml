@@ -5,6 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   
   
+  
+  
+  
   <properties>
 		<org.springframework-version>3.2.3.RELEASE</org.springframework-version>
 		<dbunit.version>2.5.0</dbunit.version>
